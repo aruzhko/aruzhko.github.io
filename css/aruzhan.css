@@ -158,3 +158,9 @@ mark{
 ins{
   color: #68939A;
 }
+
+form {
+  text-align: center;
+  color: black;
+  font-size: 30px;
+}
